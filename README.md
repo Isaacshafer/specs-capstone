@@ -10,4 +10,5 @@ Users will be able to post listings of items they want to sell. Users will also 
 
 
 ## Data Model
-<img width="1440" alt="Screen Shot 2022-03-11 at 10 19 56 AM" src="https://user-images.githubusercontent.com/99216478/167954821-253e4de9-5058-4319-b80f-94ee43c79904.png">
+
+![Screen Shot 2022-05-11 at 3 59 24 PM](https://user-images.githubusercontent.com/99216478/167954930-ba1cadb3-c1f4-4109-a59a-b8d9b9573be1.png)
